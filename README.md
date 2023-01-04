@@ -79,7 +79,7 @@ Developed by: karthick P
 RegisterNumber:  22000995
 
 Logic symbol & Truthtable
-![output](./screenshot%202023-01-04%20at%2013-55-16%20Aravindhnath_Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-.png)
+![output](./Screenshot%202023-01-04%20at%2013-55-16%20Aravindhnath_Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-.png)
 RTL realization
 Output:
 ![output](./Screenshot%20(58).png)
